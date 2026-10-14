@@ -33,7 +33,7 @@ The production workflow is intentionally first-class; `next start` serves the op
 Create `.env.local` when you need to change the backend:
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=https://fresh15-main.onrender.com
+NEXT_PUBLIC_API_BASE_URL=https://fresh10-backend.onrender.com
 ```
 
 ## Re-theming

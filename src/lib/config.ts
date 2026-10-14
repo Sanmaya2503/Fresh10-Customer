@@ -1,4 +1,4 @@
-export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "https://fresh15-main.onrender.com";
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "https://fresh10-backend.onrender.com";
 
 export const APP_CONFIG = {
   name: "Fresh15",
